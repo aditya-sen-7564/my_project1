@@ -1,0 +1,1 @@
+it gives the status of untarcked file/folder and tracked file/folder.

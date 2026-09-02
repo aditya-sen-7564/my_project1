@@ -1,0 +1,1 @@
+git clone (url) is used to download the remote repository to local repository.
