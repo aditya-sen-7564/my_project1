@@ -1,0 +1,5 @@
+Big data have categorized in tree
+1) structured - a data that have a specific format like tabular.
+2) semi-structured - a data that have not a specific format like JSON,CSV and other
+3) unstuctured - a data is 70% of the part of Big data like images,videos from the socail 
+media platoforms that are not handeled ny the traditional method.

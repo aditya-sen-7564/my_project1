@@ -1,0 +1,5 @@
+big data is huge amount and high speed of data which is come from the IOT(internet of things)
+devices,websites and appliactions which geneate the massive amount of data at every second
+in billion.
+
+these have 5Vs of big data - value,velocity,variety,volumne,varacity.

@@ -1,0 +1,2 @@
+it have high amount of data in volumne which is not be analysized thorugh the traditional 
+method of analysis we use advanced software like hadoop.
